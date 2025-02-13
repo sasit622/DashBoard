@@ -8,7 +8,7 @@ This project is a simple and responsive dashboard UI built using HTML & CSS. It 
 ✅ Data Visualization – Uses 📉 bar charts with trend lines to represent data insights.
 
 📷 Screenshot
-![Dashboard UI]([https://github.com/sasit622/DashBoard/blob/f70fbda993f582ecfad00f057d3126ca272ac5b0/DashboardOutput.png])
+![Dashboard UI](https://github.com/sasit622/DashBoard/blob/f70fbda993f582ecfad00f057d3126ca272ac5b0/DashboardOutput.png)
 
 🛠️ Technologies Used
 🚀 HTML – Structure of the dashboard.
